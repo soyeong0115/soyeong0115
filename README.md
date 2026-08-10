@@ -11,14 +11,16 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-soyeong0115.vercel.app/api?username=soyeong0115&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soyeong0115&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </td>
     <td>
       <a href="https://github.com/devxb/gitanimals">
-        <img src="https://github-readme-stats-teal-sigma-92.vercel.app/api?username=soyeong0115&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img src="https://render.gitanimals.org/lines/soyeong0115?pet-id=755086916241428557" width="400" height="200"/>
       </a>
     </td>
   </tr>
 </table>
+
+
 
 </div>
