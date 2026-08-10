@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soyeong0115&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=soyeong0115&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </td>
     <td>
       <a href="https://github.com/devxb/gitanimals">
